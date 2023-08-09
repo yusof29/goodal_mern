@@ -50,7 +50,7 @@ const Hero = () => {
             </p>
           </div>
 
-          <div className="absolute bottom-32 md:bottom-40">
+          <div className="absolute bottom-39 md:bottom-40">
             <Button
               navigateTo="/products"
               btnStyle="btn-secondary"
